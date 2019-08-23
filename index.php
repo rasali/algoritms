@@ -18,7 +18,7 @@
 
 
 // Finding lowest value from an Array
-// $arr = [4,5,6,7,8,2,9,11];
+// $arr = [4,5,6,7,8,-5,2,9,11,0];
 // $val = $arr[0];
 // $n = count($arr);
 
@@ -29,7 +29,7 @@
 //     $val = $arr[$i];
 // }
 // }
-// print($val);
+// echo 'The lowest value is ' . $val;
 
 
 
